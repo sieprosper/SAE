@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
-
+// ceci est un test 
 public class InterfaceGraphique extends JFrame {
 
     private GrapheManager grapheManager;
